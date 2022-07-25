@@ -1,8 +1,9 @@
 ### Hola a todos 👋
 #### Bienvenidos a mi Github
 
-Proyectos con aplicaciones en Sociología y Derecho
+- Proyectos con aplicaciones en Sociología y Derecho
 
+Estoy trabajando en la realización de base de datos de jurisprudencia y legislación peruana. Puedes contactame para intercambiar información. 
 
 <!--
 **Will5678/Will5678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
